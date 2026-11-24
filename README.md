@@ -57,7 +57,7 @@ cd DAMG6210
 
 * [x] Conceptual model
 * [x] Logical EER model
-* [ ] Physical implementation and sample data
+* [x] Physical implementation and sample data
 * [ ] Analysis queries
 * [ ] Final report and presentation
 
